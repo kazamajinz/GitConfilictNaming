@@ -13,7 +13,7 @@
 		390178812A95B8F5001D0E90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3901787F2A95B8F5001D0E90 /* Main.storyboard */; };
 		390178832A95B8F6001D0E90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 390178822A95B8F6001D0E90 /* Assets.xcassets */; };
 		390178862A95B8F6001D0E90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 390178842A95B8F6001D0E90 /* LaunchScreen.storyboard */; };
-		3901788E2A95B985001D0E90 /* UIApplication+width.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3901788D2A95B985001D0E90 /* UIApplication+width.swift */; };
+		3901788E2A95B985001D0E90 /* UIApplication+extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3901788D2A95B985001D0E90 /* UIApplication+extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		390178822A95B8F6001D0E90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		390178852A95B8F6001D0E90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		390178872A95B8F6001D0E90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3901788D2A95B985001D0E90 /* UIApplication+width.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIApplication+width.swift"; sourceTree = "<group>"; };
+		3901788D2A95B985001D0E90 /* UIApplication+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIApplication+extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				390178792A95B8F5001D0E90 /* AppDelegate.swift */,
 				3901787B2A95B8F5001D0E90 /* SceneDelegate.swift */,
 				3901787D2A95B8F5001D0E90 /* ViewController.swift */,
-				3901788D2A95B985001D0E90 /* UIApplication+width.swift */,
+				3901788D2A95B985001D0E90 /* UIApplication+extension.swift */,
 				3901787F2A95B8F5001D0E90 /* Main.storyboard */,
 				390178822A95B8F6001D0E90 /* Assets.xcassets */,
 				390178842A95B8F6001D0E90 /* LaunchScreen.storyboard */,
@@ -144,7 +144,7 @@
 				3901787E2A95B8F5001D0E90 /* ViewController.swift in Sources */,
 				3901787A2A95B8F5001D0E90 /* AppDelegate.swift in Sources */,
 				3901787C2A95B8F5001D0E90 /* SceneDelegate.swift in Sources */,
-				3901788E2A95B985001D0E90 /* UIApplication+width.swift in Sources */,
+				3901788E2A95B985001D0E90 /* UIApplication+extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
