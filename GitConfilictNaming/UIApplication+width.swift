@@ -9,4 +9,6 @@ import UIKit
 
 extension UIApplication {
     func temp_A() { }
+    func temp_B() { }
+    func temp_D() { }
 }
